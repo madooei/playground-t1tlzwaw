@@ -5,7 +5,7 @@ This Java template lets you get started quickly with a simple one-page playgroun
 ```java runnable
 public class Main {
     public static void main(String[] args) {
-        String message = "Hello World!";
+        String message = "... Welcome to CPSC210!";
         System.out.println(message);
     }
 }
